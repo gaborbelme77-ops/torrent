@@ -1,8 +1,7 @@
-# Premiere Pro — Free, Open-Source Premiere Pro Alternative
+# OpenEdit Pro — Free, Open-Source Premiere Pro Alternative
 
 
-
-**Premiere Pro** is a professional, open-source, multi-track non-linear video editor designed to match the capabilities of commercial tools like Adobe Premiere Pro. Perfect for creators, filmmakers, YouTubers, and hobby editors who want full control over their projects — without subscription fees.
+**OpenEdit Pro** is a professional, open-source, multi-track non-linear video editor designed to match the capabilities of commercial tools like Adobe Premiere Pro. Perfect for creators, filmmakers, YouTubers, and hobby editors who want full control over their projects — without subscription fees.
 
 ---
 
@@ -30,3 +29,7 @@
 - **RAM:** 8 GB minimum (16 GB+ recommended for 4K)
 - **GPU:** supported card for hardware encoding
 - **Storage:** 1 GB for program + additional for projects
+
+---
+
+
